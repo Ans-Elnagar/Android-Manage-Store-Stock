@@ -1,5 +1,5 @@
 # Android-Manage-Store-Stock
-The application is implemented in java.
+The application is implemented in java.\
 This is the first version of the app and i might use fragments in the second version.
 # Current features:
   - Save products into different categories.
