@@ -1,5 +1,6 @@
 # Android-Manage-Store-Stock
 The application is implemented in java.
+This is the first version of the app and i might use fragments in the second version.
 # Current features:
   - Save products into different categories.
   - To edit a product, enter its code. you can open View Store and press
