@@ -11,3 +11,10 @@ This is the first version of the app and i might use fragments in the second ver
     bill.
   - Data is saved on phone external storage. So it won't be deleted if
     the app is uninstalled by mistake.
+# Screenshots:
+![Main menu](https://user-images.githubusercontent.com/55311943/117219170-02348d00-ae05-11eb-954c-ddb11e5b6d5f.png)
+![Displaying categories](https://user-images.githubusercontent.com/55311943/117219279-3c059380-ae05-11eb-95f6-17654a62dffd.png)
+![Display products](https://user-images.githubusercontent.com/55311943/117219317-4fb0fa00-ae05-11eb-8905-c9438a8c53fb.png)
+![Display products](https://user-images.githubusercontent.com/55311943/117219338-5b042580-ae05-11eb-89a7-df2d3aca9ff5.png)
+![Type id to edit or create a product](https://user-images.githubusercontent.com/55311943/117219424-8850d380-ae05-11eb-98e8-fa44d9614776.png)
+![Edit or add product details](https://user-images.githubusercontent.com/55311943/117219462-9d2d6700-ae05-11eb-98f8-2eb041bb39d0.png)
