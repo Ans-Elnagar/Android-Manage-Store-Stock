@@ -1,6 +1,7 @@
 # Android-Manage-Store-Stock
 The application is implemented in java.\
-This is the first version of the app and i might use fragments in the second version.
+This is the first version of the app <s>and I might use fragments in the second version</s>.\
+```The app is being re-written and improved with React-native with support of syncronizing the data using a back-end Node.js server and a MongoDB database. With a lot of other features.```
 # Current features:
   - Save products into different categories.
   - To edit a product, enter its code. you can open View Store and press
